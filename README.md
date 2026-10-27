@@ -1,4 +1,5 @@
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kylestancio&theme=tokyonight)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=kylestancio&theme=tokyonight)
 
 
 
